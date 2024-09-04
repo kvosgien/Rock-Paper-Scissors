@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Ada Python tutorial project
+Ada Build tutorial project
